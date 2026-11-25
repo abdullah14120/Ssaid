@@ -1,0 +1,4 @@
+-keep class com.android.ssaid.abdullah.core.hook.** { *; }
+-keep class com.android.ssaid.abdullah.core.shizuku.ShellUserService { *; }
+-keep class com.android.ssaid.abdullah.IShellService { *; }
+-keep class com.android.ssaid.abdullah.IShellService$** { *; }
